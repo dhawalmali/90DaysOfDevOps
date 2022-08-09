@@ -158,7 +158,7 @@ fmt.Printf("challenge is %T, daystotal is %T, dayscomplete is %T\n", conference,
 There are many different types of integer and float types the links above will cover these in detail.
 
 - **int** = whole numbers
-- **unint** = positive whole numbers
+- **uint** = positive whole numbers
 - **floating point types** = numbers that contain a decimal component
 
 ## Resources
